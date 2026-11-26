@@ -1,0 +1,8 @@
+{
+  "documentId": "TEST-001",
+  "documentTypeId": "urn:oasis:names:specification:ubl:schema:xsd:Invoice-2::Invoice##urn:cen.eu:en16931:2017#compliant#urn:fdc:peppol.eu:2017:poacc:billing:3.0::2.1",
+  "processId": "urn:fdc:peppol.eu:2017:poacc:billing:01:1.0",
+  "senderParticipantId": "0245:YOUR_SENDER_ID",
+  "receiverParticipantId": "0245:YOUR_RECEIVER_ID",
+  "creationDateTime": "2026-01-01T00:00:00.000Z"
+}
